@@ -9,3 +9,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to observe Human Behaviour . 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshav002&show_icons=true&theme=cobalt&bg_color=000e22&icon_color=FFCCFF&title_color=9FFFF&text_color=99FFCC&hide_border=true)
+
+
+
