@@ -1,6 +1,6 @@
 ### Hi there, I'm Keshav! 👋
 
-<p><img align="right" alt="GIF" src="https://i.gifer.com/origin/84/841f38a385d228d89530b65d05e70977_w200.gif" width="450" height="280" margin-teft="30px" style="max-width:100%;"><br></p>
+<p><img align="right" alt="GIF" src="https://i.gifer.com/origin/84/841f38a385d228d89530b65d05e70977_w200.gif" width="400" height="270" margin-teft="30px" style="max-width:100%;"><br></p>
 
 - 🔭 I’m currently working on MERN Stack . 
 - 🌱 I’m currently learning DS and Algo . 
