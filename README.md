@@ -1,11 +1,13 @@
 ### Hi there, I'm Keshav! 👋
 
+<p><img align="right" alt="GIF" src="https://i.gifer.com/origin/84/841f38a385d228d89530b65d05e70977_w200.gif" width="450" height="280" margin-teft="30px" style="max-width:100%;"><br></p>
+
 - 🔭 I’m currently working on MERN Stack . 
 - 🌱 I’m currently learning DS and Algo . 
 - 👯 I’m looking to collaborate on Web Projects or Startups . 
 - 🤔 I’m looking for help with new api's to work with . 
 - 💬 Ask me about Web Dev related stuff . 
-- 📫 How to reach me: E-mail
+- 📫 How to reach me: <a href="mailto:keshavtayal002@gmail.com">keshavtayal002@gmail.com</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to observe Human Behaviour . 
 <hr>
