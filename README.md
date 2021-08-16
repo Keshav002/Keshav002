@@ -15,7 +15,7 @@
 <hr>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshav002&show_icons=true&theme=cobalt&bg_color=000e22&icon_color=FFCCFF&title_color=9FFFF&text_color=99FFCC&hide_border=true)
+![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshav002&show_icons=true&theme=cobalt&bg_color=000e22&icon_color=FFCCFF&title_color=9FFFF&text_color=99FFCC&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keshav002&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
